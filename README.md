@@ -1,2 +1,2 @@
-# Fis_COmputacional
+# Fis_Computacional
 Rpositorio de la clase de física computacional 
